@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box!important;
+}
+
+html, body{
+  width: 100vw!important;
+  height: 100vh!important;
+  margin: 0!important;
+  padding: 0!important;
+}
+
+body{
+  position: absolute!important;
+  width: 100vw!important;
+  height: 100vh!important;
+  display: flex!important;
+  flex-direction: column!important;
+  margin: 0!important;
+  background-color: #00001d!important;
+  overflow-x: hidden!important;
+}
+
+.foto{
+  border-radius: 100px!important;
+  border:5px solid rgb(255, 255, 255)!important;
+  max-width: 200px!important;
+}
+
+h1{
+  color: white!important;
+  font-size: 34px!important;
+}
+
+a{
+  color: white!important;
+  font-size: 20px!important;
+}
+
+.texto1{
+  color: white!important;
+  box-sizing: border-box!important;
+  margin: 5%!important;
+}
+
+summary{
+  font-size: 2rem!important;;
+}
