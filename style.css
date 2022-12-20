@@ -16,7 +16,7 @@ body{
   display: flex!important;
   flex-direction: column!important;
   margin: 0!important;
-  background-color: #00001d!important;
+  background-color: #050f2c!important;
   overflow-x: hidden!important;
 }
 
@@ -29,6 +29,7 @@ body{
 h1{
   color: white!important;
   font-size: 34px!important;
+  filter: drop-shadow(0 0 0.4em rgba(0, 173, 254));
 }
 
 a{
