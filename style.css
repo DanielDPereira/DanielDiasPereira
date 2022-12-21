@@ -46,3 +46,34 @@ a{
 summary{
   font-size: 2rem!important;;
 }
+
+/* Estilização dos botões sociais na página de contato - Início */
+
+.redes-sociais{
+  margin-top: 30px;
+}
+
+.redes-sociais a{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  border-radius: 50%;
+  color: white;
+  border: 1px solid white;
+  transition: all 0.5s ease;
+}
+
+.redes-sociais a i{
+  font-size: 20px;
+}
+
+.redes-sociais a:hover{
+  color: #050f2c!important;
+  background-color: rgb(255, 255, 255);
+}
+
+/* Estilização dos botões sociais na página de contato - Fim */
