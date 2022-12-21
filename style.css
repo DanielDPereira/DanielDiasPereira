@@ -24,6 +24,7 @@ body{
   border-radius: 100px!important;
   border:5px solid rgb(255, 255, 255)!important;
   max-width: 200px!important;
+  margin-bottom: 2.5%;
 }
 
 h1{
@@ -40,7 +41,8 @@ a{
 .texto1{
   color: white!important;
   box-sizing: border-box!important;
-  margin: 5%!important;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 summary{
