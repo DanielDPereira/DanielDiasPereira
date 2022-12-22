@@ -41,6 +41,12 @@ h1{
   margin-right: 5%;
 }
 
+*::selection{
+  color: white;
+  background: #5e6168;
+
+}
+
 summary{
   font-size: 2rem!important;;
 }
