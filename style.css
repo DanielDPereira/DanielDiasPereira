@@ -86,3 +86,8 @@ a:hover {
 transition: 0.5s;
 opacity: 0.7;
 }
+
+details,
+summary{
+  padding: 5px;
+}
