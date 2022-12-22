@@ -81,3 +81,8 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+
+a:hover {
+transition: 0.5s;
+opacity: 0.7;
+}
