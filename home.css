@@ -60,3 +60,7 @@ body{
 .nav-item{
     margin-right: 1em!important;
 }
+
+a.nav-link{
+    font-size: 20px!important;
+}
