@@ -25,7 +25,7 @@ i {
 }
 
 .footer__container {
-    max-width: 116rem;
+    max-width: 116rem!important;
     margin: auto;
     padding: 0 1.5rem;
     overflow: auto;
