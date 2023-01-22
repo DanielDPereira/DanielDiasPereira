@@ -82,7 +82,7 @@ summary{
 
 /* Estilização dos botões sociais na página de contato - Fim */
 
-a {
+.texto1 a {
   color: rgb(255 255 255)!important;
   text-decoration: none;
   background-color: transparent;
