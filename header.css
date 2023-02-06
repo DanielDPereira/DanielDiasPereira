@@ -65,3 +65,7 @@ body{
 a.nav-link{
     font-size: 1.1em!important;
 }
+
+nav{
+    filter: drop-shadow(0 0 0.4em rgba(0, 173, 254));
+}
