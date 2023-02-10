@@ -24,14 +24,13 @@ body{
   border-radius: 100px!important;
   border:5px solid rgb(255, 255, 255)!important;
   max-width: 200px!important;
-  margin-bottom: 1%;
-  margin-top: 1%;
 }
 
 h1{
   color: white!important;
   font-size: 34px!important;
   filter: drop-shadow(0 0 0.4em rgba(0, 173, 254));
+  padding: 1%;
 }
 
 
