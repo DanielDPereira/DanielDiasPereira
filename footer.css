@@ -81,3 +81,10 @@ i {
 .footer__bottom .footer__list {
     flex-direction: row;
 }
+
+footer{
+    width: 100vw;
+    position: relative!important;
+    top : 0%!important;
+    bottom : 0%!important;
+}
