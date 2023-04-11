@@ -99,6 +99,6 @@ summary{
   padding: 5px;
 }
 
-p{
+p, li{
   text-align: justify;
 }
