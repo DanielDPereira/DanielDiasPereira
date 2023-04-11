@@ -98,3 +98,7 @@ details,
 summary{
   padding: 5px;
 }
+
+p{
+  text-align: justify;
+}
